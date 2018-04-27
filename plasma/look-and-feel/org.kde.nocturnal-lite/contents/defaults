@@ -1,0 +1,18 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=Nocturnal Lite
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
+[plasmarc][Theme]
+name=Nocturnal
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Nocturnal
+
+[kcminputrc][Mouse]
+cursorTheme=Breeze_Snow

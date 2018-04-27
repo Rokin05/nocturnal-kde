@@ -1,0 +1,8 @@
+ 
+### Linux ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+build-tar.gz.sh
