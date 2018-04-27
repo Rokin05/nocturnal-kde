@@ -7,7 +7,6 @@ gh_desc="Nocturnal KDE"
 
 cat <<- EOF
 
-
 |\ | _  __|_   _ _  _ |
 | \|(_)(_ ||_|| | |(_||
                              
