@@ -2,9 +2,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rokin05/nocturnal-kde/master/INFO/screenshots/preview.1.png" alt="Preview Nocturnal KDE"/>
 </p><p align="center">
-  <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Nocturnal | Aurorae decoration: Nocturnal | Plasma Theme: Nocturnal | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
+  <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Nocturnal | Aurorae decoration: Nocturnal | Plasma Theme: Nocturnal | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
 
+  
 Nocturnal KDE - Theme pack for Plasma 5 desktop.
+
+
 
 In this repository you'll find:
 
