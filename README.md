@@ -16,7 +16,6 @@ In this repository you'll find:
 - [Plasma Color Schemes](https://www.opendesktop.org/p/1231528/)
 - [Aurorae Themes](https://www.opendesktop.org/p/1231531/)
 - [Kvantum Themes](https://www.opendesktop.org/p/1231530/)
-- [SDDM Theme](https://www.opendesktop.org/p/1231532/)
 - [Wallpapers](https://www.opendesktop.org/p/1231533/)
 
 
