@@ -11,12 +11,14 @@ Nocturnal KDE - Theme pack for Plasma 5 desktop.
 
 In this repository you'll find:
 
-- Aurorae Themes
-- Kvantum Themes
-- Plasma Color Schemes
-- Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
-- Wallpapers
+- [Plasma Look-and-Feel Pack](https://www.opendesktop.org/p/1231529/)
+- [Plasma Desktop Themes](https://www.opendesktop.org/p/1231527/)
+- [Plasma Color Schemes](https://www.opendesktop.org/p/1231528/)
+- [Aurorae Themes](https://www.opendesktop.org/p/1231531/)
+- [Kvantum Themes](https://www.opendesktop.org/p/1231530/)
+- [SDDM Theme](https://www.opendesktop.org/p/1231532/)
+- [Wallpapers](https://www.opendesktop.org/p/1231533/)
+
 
 ## Installation
 
