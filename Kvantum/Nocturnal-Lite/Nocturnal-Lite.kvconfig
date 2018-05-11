@@ -241,10 +241,10 @@ frame=true
 interior=false
 frame.element=common
 interior.element=common
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -269,7 +269,7 @@ inherits=PanelButtonCommand
 indicator.element=arrow-down
 
 [IndicatorArrow]
-indicator.element=arrow
+indicator.element=menu-arrow
 indicator.size=9
 
 [ToolboxTab]
@@ -302,10 +302,10 @@ text.bold=false
 inherits=PanelButtonCommand
 frame.element=tabframe
 interior.element=tabframe
-frame.top=3
-frame.left=3
-frame.right=3
-frame.bottom=3
+frame.top=1
+frame.left=1
+frame.right=1
+frame.bottom=1
     
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -317,9 +317,9 @@ inherits=PanelButtonCommand
 interior.element=table
 frame.element=table
 interior=true
-frame.top=1
+frame.top=0
 frame.bottom=1
-frame.left=1
+frame.left=0
 frame.right=1
 text.normal.color=#0c0c0c
 text.focus.color=#000000c8
@@ -349,7 +349,7 @@ text.focus.color=#ffffffc8
 [ToolbarButton]
 frame.element=tbutton
 interior.element=tbutton
-indicator.element=tarrow
+indicator.element=toolbar-arrow
 text.normal.color=#dfe3ff
 text.focus.color=#ffffffc8
 text.press.color=#ffffffc8
@@ -428,12 +428,12 @@ indicator.size=8
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior.element=scrollbarslider
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 indicator.element=grip
-indicator.size=16
+indicator.size=12
 
 [ScrollbarGroove]
 inherits=PanelButtonCommand
@@ -527,10 +527,10 @@ frame.expansion=0
 [ToolbarComboBox]
 frame.element=combo
 indicator.element=toolbar-arrow-down
-text.normal.color=#dfe3ff
-text.focus.color=#dfe3ff
-text.press.color=#dfe3ff
-text.toggle.color=#dfe3ff
+text.normal.color=#e6e6f0
+text.focus.color=#ffffffc8
+text.press.color=#ffffffc8
+text.toggle.color=#ffffff
 
 [Menu]
 inherits=PanelButtonCommand
@@ -551,10 +551,10 @@ interior=true
 interior.element=group
 text.shadow=0
 text.margin=0
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 text.normal.color=#0c0c0c
 text.focus.color=#0c0c0c
 
@@ -578,3 +578,5 @@ frame.element=tooltip
 
 [Window]
 interior=false
+interior.element=window
+text.bold=false

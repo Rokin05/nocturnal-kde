@@ -261,12 +261,15 @@ text.margin.left=2
 text.margin.right=2
 frame.expansion=0
 
+[ToolbarLineEdit]
+frame.element=lineedit
+
 [DropDownButton]
 inherits=PanelButtonCommand
 indicator.element=arrow-down
 
 [IndicatorArrow]
-indicator.element=arrow
+indicator.element=menu-arrow
 indicator.size=9
 
 [ToolboxTab]
@@ -346,7 +349,7 @@ text.focus.color=#ffffffc8
 [ToolbarButton]
 frame.element=tbutton
 interior.element=tbutton
-indicator.element=tarrow
+indicator.element=toolbar-arrow
 text.normal.color=#e6e6f0
 text.focus.color=#ffffffc8
 text.press.color=#ffffffc8
@@ -357,10 +360,10 @@ text.bold=true
 inherits=PanelButtonCommand
 frame.element=slider
 interior.element=slider
-frame.top=0
-frame.bottom=0
-frame.left=0
-frame.right=0
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [SliderCursor]
 inherits=PanelButtonCommand
@@ -425,10 +428,10 @@ indicator.size=8
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior.element=scrollbarslider
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 indicator.element=grip
 indicator.size=16
 
@@ -438,8 +441,8 @@ interior.element=slider
 frame.element=slider
 frame.top=0
 frame.bottom=0
-frame.left=4
-frame.right=4
+frame.left=0
+frame.right=0
 
 [MenuItem]
 inherits=PanelButtonCommand
@@ -521,6 +524,14 @@ text.press.color=#a9a9a9
 text.toggle.color=#a9a9a9
 frame.expansion=0
 
+[ToolbarComboBox]
+frame.element=combo
+indicator.element=toolbar-arrow-down
+text.normal.color=#e6e6f0
+text.focus.color=#ffffffc8
+text.press.color=#ffffffc8
+text.toggle.color=#ffffff
+
 [Menu]
 inherits=PanelButtonCommand
 frame.top=1
@@ -540,10 +551,10 @@ interior=true
 interior.element=group
 text.shadow=0
 text.margin=0
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.normal.color=#a9a9a9
 text.focus.color=#a9a9a9
 
